@@ -50,7 +50,6 @@ streamlit run app.py
 
 ## 스크린샷
 
-<!-- 스크린샷을 docs/ 폴더에 넣고 아래 경로를 수정하세요 -->
 ![메인 화면](docs/screenshot-main.png)
 ![조회 결과](docs/screenshot-result.png)
 
